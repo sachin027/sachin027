@@ -3,6 +3,7 @@
 - 🌱 currently I'm pursuing B.E. in Computer Engineering  
 - 📫  Connect with me on Linkedln - https://www.linkedin.com/in/sachin-kanzariya-ab4baa214/
 - :email: Contact me - sachinkanzariya11@gmail.com
+- :dart: Improving DSA skills
 
 <!---
 sachin027/sachin027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
