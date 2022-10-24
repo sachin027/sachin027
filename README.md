@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 58%"/>
+</div>  
 <h1 align="center">Hi 👋, I'm Sachin Kanzariya</h1>
 <h3 align="center">A passionate developer who has willingness to explore more and learn</h3>
 
