@@ -19,7 +19,7 @@
 <a href="https://www.hackerrank.com/sachinkanzariya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sachinkanzariya1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sachin_027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachin_027" height="30" width="40" /></a>
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="left">
 <a href="https://twitter.com/sachinkanzariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinkanzariya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sachin-kanzariya-ab4baa214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin kanzariya" height="30" width="40" /></a>
